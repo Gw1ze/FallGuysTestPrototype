@@ -1,3 +1,3 @@
 # FallGuysTestPrototype
-For Lesta Games Academy
+For Lesta Games Academy.
 Open SampleScene ;)
